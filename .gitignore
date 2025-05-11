@@ -1,0 +1,18 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+.venv/
+
+# Jupyter notebook metadata (optional cleanup)
+*.nbmetadata
+
+# VS Code workspace files (optional, if you use VS Code)
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
