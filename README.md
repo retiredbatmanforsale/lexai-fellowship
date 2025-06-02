@@ -1,15 +1,15 @@
 # 🧠 April '25 Lex AI Fellowship · *Zero to ML-Hero*
 
-Welcome to the **Lex AI Fellowship** — a deep dive into the mathematical soul of machine learning.  
-From first principles to hands-on implementation, this program is your personal fastlane into the world of **Linear Algebra, Calculus, Machine Learning**, and real-world intelligence.
+Welcome to the **Lex AI Fellowship** : a deep dive into the mathematical soul of machine learning.  
+From first principles to hands-on implementation, this program is your personal fastlane into the world of **Linear Algebra, Calculus, Machine Learning, Deep Learning, Transformers, Language Models**, and real-world intelligence.
 
-> 💡 Whether you're a startup founder, autodidact, or engineer hungry for first principles — this is your mathematical dojo.
+> 💡 Whether you're a startup founder, autodidact, or engineer hungry for first principles, this is your mathematical & applied AI dojo.
 
 ---
 
 ## 🧾 Curriculum Map
 
-Each session is a blend of code, theory, and intuition — designed to make concepts *stick* and scale your mental models.
+Each session is a blend of code, theory, and intuition - designed to make concepts *stick* and scale your mental models.
 
 | 🔢 #  | 🧠 Title | 📂 Notebook | 🧰 Concepts & Takeaways |
 |------|---------|-------------|-------------------------|
@@ -31,7 +31,7 @@ Each session is a blend of code, theory, and intuition — designed to make conc
 
 ## 🧠 Pedagogy
 
-- 🧬 **First Principles Only** — We don’t treat ML like magic. We open the black box and teach you how to build one.
+- 🧬 **First Principles Only** — We don’t treat AI like magic. We open the black box and teach you how to build one.
 - 💻 **Code-Along Philosophy** — Every concept backed by live code in Jupyter.
 - 🧭 **Conceptual Anchors** — Visuals, analogies, and mental models over rote formulas.
 - 🔁 **Repetition = Retention** — Deliberate overlap of topics to deepen understanding.
