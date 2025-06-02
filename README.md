@@ -1,8 +1,16 @@
 # 🧠 April '25 Lex AI Fellowship · *Zero to ML-Hero*
 
 <div align="center">
-  <img src="https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/brand-logos/lexai.png" alt="LexAI Logo" width="200"/>
-  <img src="https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/brand-logos/aiseekhegaindia.png" alt="AI Seekhega India Logo" width="200"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/brand-logos/lexai.png" alt="LexAI Logo" height="100"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/brand-logos/aiseekhegaindia.png" alt="AI Seekhega India Logo" height="100"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 Welcome to the **Lex AI Fellowship** : a deep dive into the mathematical soul of machine learning.  
