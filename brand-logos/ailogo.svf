@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="580" height="120" viewBox="0 0 580 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with modern gradient and subtle tech pattern -->
+  <defs>
+    <linearGradient id="backgroundGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F1A4F"/>
+      <stop offset="100%" stop-color="#081040"/>
+    </linearGradient>
+    
+    <pattern id="techPattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M0 0L20 20M20 0L0 20" stroke="#1A2A6F" stroke-width="0.5" fill="none"/>
+    </pattern>
+    
+    <!-- Modern text gradient -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF9933"/>
+      <stop offset="33%" stop-color="#FFCC33"/>
+      <stop offset="66%" stop-color="#64D8FF"/>
+      <stop offset="100%" stop-color="#33D17A"/>
+    </linearGradient>
+    
+    <!-- Glow filter for text -->
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  
+  <!-- Background with rounded corners and tech pattern overlay -->
+  <rect width="580" height="120" rx="20" fill="url(#backgroundGradient)"/>
+  <rect width="580" height="120" rx="20" fill="url(#techPattern)" fill-opacity="0.2"/>
+  
+  <!-- Subtle circuitry-like lines -->
+  <path d="M20,60 L40,60 L50,70 L100,70" stroke="#1A3A8F" stroke-width="1" stroke-opacity="0.3"/>
+  <path d="M520,30 L500,30 L490,40 L470,40" stroke="#1A3A8F" stroke-width="1" stroke-opacity="0.3"/>
+  <path d="M540,90 L520,90 L510,80 L490,80" stroke="#1A3A8F" stroke-width="1" stroke-opacity="0.3"/>
+  
+  <!-- Small tech elements -->
+  <circle cx="20" cy="60" r="3" fill="#64D8FF" fill-opacity="0.7"/>
+  <circle cx="540" cy="90" r="3" fill="#64D8FF" fill-opacity="0.7"/>
+  
+  <!-- Logo text with modern font and gradient -->
+  <text filter="url(#glow)" x="38" y="75" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="0.5" fill="url(#textGradient)">
+    ai seekhega india
+  </text>
+</svg>
