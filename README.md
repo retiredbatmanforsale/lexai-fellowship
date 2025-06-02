@@ -47,9 +47,9 @@ cd lexai-fellowship
 ```
 
 ## 📎 Metadata
-	•	🧑‍🚀 Author: Puru Kathuria
-	•	📅 Fellowship: April 2025 Batch
-	•	🌐 Website: www.lexailabs.com | www.aiseekhegaindia.com
+- 🧑‍🚀 Author: [Puru Kathuria](purukathuria.com)
+- 📅 Fellowship: April 2025 Batch
+- 🌐 Website: [www.lexailabs.com](www.lexailabs.com) | [www.aiseekhegaindia.com](www.aiseekhegaindia.com) 
 
 ## ⭐ Bonus
 
