@@ -44,3 +44,16 @@ Each session is a blend of code, theory, and intuition - designed to make concep
 git clone https://github.com/retiredbatmanforsale/lexai-fellowship.git
 cd lexai-fellowship
 # Open any notebook in Jupyter or Colab
+```
+
+## 📎 Metadata
+	•	🧑‍🚀 Author: Puru Kathuria
+	•	📅 Fellowship: April 2025 Batch
+	•	🌐 Website: lexaifellowship.com (Coming Soon)
+
+## ⭐ Bonus
+
+If this helped you, consider starring ⭐ the repo.
+Fork it, remix it, or contribute your own notebooks as part of the next cohort.
+
+Let’s bring ML literacy to everyone.
