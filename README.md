@@ -1,14 +1,46 @@
+# 🧠 April '25 Lex AI Fellowship · *Zero to ML-Hero*
 
-# 📘 **April'25 Lex AI Fellowship**
+Welcome to the **Lex AI Fellowship** — a deep dive into the mathematical soul of machine learning.  
+From first principles to hands-on implementation, this program is your personal fastlane into the world of **Linear Algebra, Calculus, Machine Learning**, and real-world intelligence.
+
+> 💡 Whether you're a startup founder, autodidact, or engineer hungry for first principles — this is your mathematical dojo.
 
 ---
 
-### 📚 **Session List**
+## 🧾 Curriculum Map
 
-| #  | Title                             | GitHub Repo Link                                  |
-| -- | --------------------------------- | ------------------------------------------------- |
-| 01 | Introduction to Machine Learning  | [🔗 Link](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/logistic_iris.ipynb) |
-| 02 | Linear Algebra + Z-Score + Flavour of PCA              | [🔗 Link](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/LinearAlgebra.ipynb) |
-| 03 | Eigen Vectors + CoVariance & Pearson's Correlation Coefficient + PCA               | [🔗 Link](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/EigenVectors.ipynb) |
-| 04 | Calculus               | [🔗 Link](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/Calculus.ipynb) |
-| 05 | Linear Regression               | [🔗 Link](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/LinearRegression1.ipynb) |
+Each session is a blend of code, theory, and intuition — designed to make concepts *stick* and scale your mental models.
+
+| 🔢 #  | 🧠 Title | 📂 Notebook | 🧰 Concepts & Takeaways |
+|------|---------|-------------|-------------------------|
+| 01 | ML Primer + Iris Intro | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/logistic_iris.ipynb) | • What is ML really?<br>• Classification 101<br>• Intro to workflows |
+| 02 | LA 101 + Z-Score + PCA Peek | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/linear_algebra_transformations.ipynb) | • Vectors as transformations<br>• Z-score intuition<br>• Prepping for PCA |
+| 03 | Eigen Intuition + Covariance | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/linear_algebra_eigenvalues_eigenvectors.ipynb) | • Eigendecomposition<br>• Covariance and correlation<br>• Geometric view of PCA |
+| 04 | PCA: From Theory to Practice | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/pca_case_study.ipynb) | • Real-world PCA<br>• Dimensionality reduction<br>• Feature compression |
+| 05 | Calculus: Linear Reg Cost Function | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/calculus_linear_regression_cost_function.ipynb) | • Loss function math<br>• Gradient Descent from scratch<br>• Cost surface intuition |
+| 06 | Calculus: Logistic Reg Cost Function | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/calculus_linear_regression_cost_function.ipynb) | • Sigmoid & log loss<br>• Optimization dynamics<br>• Probabilistic interpretation |
+| 07 | Linear Regression: Code it Yourself | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/LinearRegression1.ipynb) | • Pure Python implementation<br>• Model diagnostics<br>• Train/test splits |
+| 08 | Logistic Regression: Iris Case Study | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/logistic_regression_case_study_iris.ipynb) | • Multiclass classification<br>• Confusion matrix<br>• Metrics that matter |
+| 09 | Logistic Regression: From First Principles | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/logistic_regression_in_depth.ipynb) | • Code from scratch<br>• Gradient math<br>• Probabilities and decision boundaries |
+| 10 | Linear Regression: Visual Cost Landscapes | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/linear_regression_case_study.ipynb) | • Cost vs weight curve<br>• Gradient visuals<br>• Convex optimization intuition |
+| 11 | Bias-Variance: The Ultimate Tradeoff | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/bias_variance_plots.ipynb) | • Overfitting vs underfitting<br>• U-shaped loss<br>• Model complexity analysis |
+| 12 | Clustering: Theory & Code | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/clustering_theory_and_implementation.ipynb) | • K-means demystified<br>• Distance metrics<br>• Visualizing clusters |
+| 13 | ML Cheat Sheet | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/ml_cheat_sheet.ipynb) | • Quick theory refresh<br>• Code snippets<br>• Intuition bombs |
+
+---
+
+## 🧠 Pedagogy
+
+- 🧬 **First Principles Only** — We don’t treat ML like magic. We open the black box and teach you how to build one.
+- 💻 **Code-Along Philosophy** — Every concept backed by live code in Jupyter.
+- 🧭 **Conceptual Anchors** — Visuals, analogies, and mental models over rote formulas.
+- 🔁 **Repetition = Retention** — Deliberate overlap of topics to deepen understanding.
+
+---
+
+## 🔗 How to Use This Repo
+
+```bash
+git clone https://github.com/retiredbatmanforsale/lexai-fellowship.git
+cd lexai-fellowship
+# Open any notebook in Jupyter or Colab
