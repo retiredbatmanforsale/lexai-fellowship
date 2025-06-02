@@ -1,5 +1,10 @@
 # 🧠 April '25 Lex AI Fellowship · *Zero to ML-Hero*
 
+<div align="center">
+  <img src="https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/brand-logos/lexai.png" alt="LexAI Logo" width="200"/>
+  <img src="https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/brand-logos/aiseekhegaindia.png" alt="AI Seekhega India Logo" width="200"/>
+</div>
+
 Welcome to the **Lex AI Fellowship** : a deep dive into the mathematical soul of machine learning.  
 From first principles to hands-on implementation, this program is your personal fastlane into the world of **Linear Algebra, Calculus, Machine Learning, Deep Learning, Transformers, Language Models**, and real-world intelligence.
 
@@ -31,7 +36,7 @@ Each session is a blend of code, theory, and intuition - designed to make concep
 
 ## 🧠 Pedagogy
 
-- 🧬 **First Principles Only** — We don’t treat AI like magic. We open the black box and teach you how to build one.
+- 🧬 **First Principles Only** — We don't treat AI like magic. We open the black box and teach you how to build one.
 - 💻 **Code-Along Philosophy** — Every concept backed by live code in Jupyter.
 - 🧭 **Conceptual Anchors** — Visuals, analogies, and mental models over rote formulas.
 - 🔁 **Repetition = Retention** — Deliberate overlap of topics to deepen understanding.
@@ -56,4 +61,4 @@ cd lexai-fellowship
 If this helped you, consider starring ⭐ the repo.
 Fork it, remix it, or contribute your own notebooks as part of the next cohort.
 
-Let’s bring ML literacy to everyone.
+Let's bring ML literacy to everyone.
