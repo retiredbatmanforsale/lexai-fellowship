@@ -40,8 +40,7 @@ Each session is a blend of code, theory, and intuition - designed to make concep
 | 12 | Clustering: Theory & Code | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/clustering_theory_and_implementation.ipynb) | • K-means demystified<br>• Distance metrics<br>• Visualizing clusters |
 | 13 | ML Cheat Sheet | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/ml_cheat_sheet.ipynb) | • Quick theory refresh<br>• Code snippets<br>• Intuition bombs |
 
-| 14 | Neural Networks | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/neural_network_scratch.ipynb) | • Quick theory refresh<br>• Code snippets<br>• Intuition bombs |
-
+| 14 | Neural Networks | [📘](https://github.com/retiredbatmanforsale/lexai-fellowship/blob/main/neural_network_scratch.ipynb) | • NN theory<br>• Implementation <br>• Intuition bombs |
 ---
 
 ## 🧠 Pedagogy
